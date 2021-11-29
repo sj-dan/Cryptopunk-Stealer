@@ -1,4 +1,3 @@
-#!/bin/python3
 
 # 11/28/2021
 # Made by DanChan
